@@ -12,7 +12,7 @@ The Financial Tracker Application is a web-based tool developed using JavaScript
 
 This application includes a specific sequence of operations that are represented in the form of a flowchart. This sequence starts from the initialization of the application and ends with the user successfully performing various operations like adding, updating, deleting, or filtering transactions.
 
-![flowchart](/.flow.png)
+![flowchart](./flow.png)
 
 ## Features
 
